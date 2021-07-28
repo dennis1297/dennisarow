@@ -1,0 +1,61 @@
+.header{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    /* background-color:#E32636 ; */
+
+    position: sticky;
+    top:0;
+    z-index: 100;
+}
+.head {
+ /* width: 100px; */
+ object-fit: contain;
+ /* margin: 0 20px; */
+ color:black;
+}
+.ts{
+   
+    width: 100px;
+    margin-left:1400px;
+}
+.bg-danger{
+    background-color: red;
+}
+.bg-success{
+    background-color: green;
+}
+.fd{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar{
+    background-color: red;
+    color: white;
+}
+.mr{
+    margin-left: 10px;
+}
+.fs{
+    display: flex;
+    margin-right: 40px;
+}
+
+.ln{
+    width: 1216px;
+    height: 30px;
+}
+.ms{
+    
+    height: 30px;
+    width: 250px;
+
+}
+.ml{
+    height: 30px;
+    width: 200px;
+}
+.input-group{
+    background-color: tomato;
+    color: red
+}
